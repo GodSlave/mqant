@@ -11,8 +11,8 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/elgamal"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/elgamal"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 )
 
 const encryptedKeyVersion = 3

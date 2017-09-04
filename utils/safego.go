@@ -14,9 +14,9 @@
 package utils
 
 import (
-	"github.com/liangdas/mqant/conf"
+	"github.com/GodSlave/mqant/conf"
 	"runtime"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 )
 
 var pendingGo int

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2"
+	"github.com/GodSlave/mqant/utils/msgpack.v2"
 )
 
 func benchmarkEncodeDecode(b *testing.B, src, dst interface{}) {

@@ -16,10 +16,10 @@ package basegate
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/gate"
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 )
 
 type sessionagent struct {

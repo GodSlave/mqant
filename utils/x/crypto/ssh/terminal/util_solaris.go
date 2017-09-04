@@ -7,7 +7,7 @@
 package terminal
 
 import (
-	"github.com/liangdas/mqant/utils/x/sys/unix"
+	"github.com/GodSlave/mqant/utils/x/sys/unix"
 	"io"
 	"syscall"
 )

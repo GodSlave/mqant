@@ -19,7 +19,7 @@
 //
 // (Note: this package does not implement ciphertext-stealing so sectors must
 // be a multiple of 16 bytes.)
-package xts // import "github.com/liangdas/mqant/utils/x/crypto/xts"
+package xts // import "github.com/GodSlave/mqant/utils/x/crypto/xts"
 
 import (
 	"crypto/cipher"

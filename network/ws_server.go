@@ -16,7 +16,7 @@ package network
 import (
 	"crypto/tls"
 	"github.com/gorilla/websocket"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"net"
 	"net/http"
 	"sync"

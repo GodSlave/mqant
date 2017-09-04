@@ -14,9 +14,9 @@
 package mqrpc
 
 import (
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/gate"
 )
 
 

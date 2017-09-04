@@ -7,7 +7,7 @@
 //
 // Clearsigned messages are cryptographically signed, but the contents of the
 // message are kept in plaintext so that it can be read without special tools.
-package clearsign // import "github.com/liangdas/mqant/utils/x/crypto/openpgp/clearsign"
+package clearsign // import "github.com/GodSlave/mqant/utils/x/crypto/openpgp/clearsign"
 
 import (
 	"bufio"
@@ -18,9 +18,9 @@ import (
 	"net/textproto"
 	"strconv"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/armor"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/armor"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 )
 
 // A Block represents a clearsigned message. A signature on a Block can

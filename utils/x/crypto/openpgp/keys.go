@@ -9,9 +9,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/armor"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/armor"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 )
 
 // PublicKeyType is the armor type for a PGP public key.

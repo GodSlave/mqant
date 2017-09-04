@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ed25519"
+	"github.com/GodSlave/mqant/utils/x/crypto/ed25519"
 )
 
 // These constants represent the algorithm names for key types supported by this

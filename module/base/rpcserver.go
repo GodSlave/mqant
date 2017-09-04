@@ -14,11 +14,11 @@
 package basemodule
 
 import (
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/rpc/base"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/rpc/base"
 )
 
 type rpcserver struct {

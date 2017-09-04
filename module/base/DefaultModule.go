@@ -14,11 +14,11 @@
 package basemodule
 
 import (
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
 	"sync"
 	"runtime"
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/module"
 )
 
 type DefaultModule struct {

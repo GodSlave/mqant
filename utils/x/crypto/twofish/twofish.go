@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package twofish implements Bruce Schneier's Twofish encryption algorithm.
-package twofish // import "github.com/liangdas/mqant/utils/x/crypto/twofish"
+package twofish // import "github.com/GodSlave/mqant/utils/x/crypto/twofish"
 
 // Twofish is defined in http://www.schneier.com/paper-twofish-paper.pdf [TWOFISH]
 

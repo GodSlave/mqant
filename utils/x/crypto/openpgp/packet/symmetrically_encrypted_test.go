@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"crypto/sha1"
 	"encoding/hex"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 	"io"
 	"io/ioutil"
 	"testing"

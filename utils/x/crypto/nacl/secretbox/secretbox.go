@@ -15,11 +15,11 @@ negligible risk of collision.
 
 This package is interoperable with NaCl: https://nacl.cr.yp.to/secretbox.html.
 */
-package secretbox // import "github.com/liangdas/mqant/utils/x/crypto/nacl/secretbox"
+package secretbox // import "github.com/GodSlave/mqant/utils/x/crypto/nacl/secretbox"
 
 import (
-	"github.com/liangdas/mqant/utils/x/crypto/poly1305"
-	"github.com/liangdas/mqant/utils/x/crypto/salsa20/salsa"
+	"github.com/GodSlave/mqant/utils/x/crypto/poly1305"
+	"github.com/GodSlave/mqant/utils/x/crypto/salsa20/salsa"
 )
 
 // Overhead is the number of bytes of overhead when boxing a message.

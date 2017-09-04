@@ -15,13 +15,13 @@ package basemodule
 
 import (
 	"encoding/json"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/rpc"
 	"sync"
 	"time"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/gate"
 )
 
 type StatisticalMethod struct {

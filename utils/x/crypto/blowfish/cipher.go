@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package blowfish implements Bruce Schneier's Blowfish encryption algorithm.
-package blowfish // import "github.com/liangdas/mqant/utils/x/crypto/blowfish"
+package blowfish // import "github.com/GodSlave/mqant/utils/x/crypto/blowfish"
 
 // The code is a port of Bruce Schneier's C implementation.
 // See http://www.schneier.com/blowfish.html.

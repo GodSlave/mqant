@@ -15,7 +15,7 @@ package network
 
 import (
 	"crypto/tls"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"net"
 	"sync"
 	"time"

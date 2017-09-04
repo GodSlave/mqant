@@ -4,13 +4,13 @@
 
 // Package armor implements OpenPGP ASCII Armor, see RFC 4880. OpenPGP Armor is
 // very similar to PEM except that it has an additional CRC checksum.
-package armor // import "github.com/liangdas/mqant/utils/x/crypto/openpgp/armor"
+package armor // import "github.com/GodSlave/mqant/utils/x/crypto/openpgp/armor"
 
 import (
 	"bufio"
 	"bytes"
 	"encoding/base64"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 	"io"
 )
 

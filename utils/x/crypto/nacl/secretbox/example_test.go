@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/liangdas/mqant/utils/x/crypto/nacl/secretbox"
+	"github.com/GodSlave/mqant/utils/x/crypto/nacl/secretbox"
 )
 
 func Example() {

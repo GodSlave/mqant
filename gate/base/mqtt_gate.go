@@ -15,15 +15,15 @@ package basegate
 
 import (
 	"bufio"
-	"github.com/liangdas/mqant/gate"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/network"
+	"github.com/GodSlave/mqant/gate"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/network"
 	"time"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/module/base"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/module/base"
 	"fmt"
 	"reflect"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 )
 var RPC_PARAM_SESSION_TYPE="SESSION"
 type Gate struct {

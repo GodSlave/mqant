@@ -14,7 +14,7 @@
 package network
 
 import (
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"net"
 	"sync"
 	"time"

@@ -17,8 +17,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/s2k"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/s2k"
 )
 
 const (

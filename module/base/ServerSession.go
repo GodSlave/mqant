@@ -14,8 +14,8 @@
 package basemodule
 
 import (
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/module"
 )
 
 func NewServerSession(Id string ,Stype string,Rpc mqrpc.RPCClient) (module.ServerSession) {

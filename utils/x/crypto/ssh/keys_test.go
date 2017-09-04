@@ -17,8 +17,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ed25519"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh/testdata"
+	"github.com/GodSlave/mqant/utils/x/crypto/ed25519"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh/testdata"
 )
 
 func rawKey(pub PublicKey) interface{} {

@@ -15,7 +15,7 @@ package gate
 
 import (
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/liangdas/mqant/gate/base/mqtt"
+	"github.com/GodSlave/mqant/gate/base/mqtt"
 )
 /**
 net代理服务 处理器

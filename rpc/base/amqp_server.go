@@ -15,12 +15,12 @@ package defaultrpc
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
 	"github.com/streadway/amqp"
-	"github.com/liangdas/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/rpc/pb"
 	"github.com/golang/protobuf/proto"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/rpc"
 	"runtime"
 )
 

@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
 )
 
 type privKey struct {

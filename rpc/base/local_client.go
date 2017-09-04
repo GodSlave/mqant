@@ -15,12 +15,12 @@ package defaultrpc
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/module/modules/timer"
-	"github.com/liangdas/mqant/utils"
+	"github.com/GodSlave/mqant/module/modules/timer"
+	"github.com/GodSlave/mqant/utils"
 	"sync"
 	"time"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/rpc"
 )
 
 type LocalClient struct {

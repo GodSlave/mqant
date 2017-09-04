@@ -122,7 +122,7 @@ func handshakePair(clientConf *ClientConfig, addr string, noise bool) (client *h
 
 func TestHandshakeBasic(t *testing.T) {
 	if runtime.GOOS == "plan9" {
-		t.Skip("see github.com/liangdas/mqant/utils/issue/7237")
+		t.Skip("see github.com/GodSlave/mqant/utils/issue/7237")
 	}
 
 	checker := &syncChecker{
@@ -486,7 +486,7 @@ func testHandshakeErrorHandlingN(t *testing.T, readLimit, writeLimit int, couple
 
 func TestDisconnect(t *testing.T) {
 	if runtime.GOOS == "plan9" {
-		t.Skip("see github.com/liangdas/mqant/utils/issue/7237")
+		t.Skip("see github.com/GodSlave/mqant/utils/issue/7237")
 	}
 	checker := &testChecker{}
 	trC, trS, err := handshakePair(&ClientConfig{HostKeyCallback: checker.Check}, "addr", false)

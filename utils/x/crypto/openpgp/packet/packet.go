@@ -4,15 +4,15 @@
 
 // Package packet implements parsing and serialization of OpenPGP packets, as
 // specified in RFC 4880.
-package packet // import "github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+package packet // import "github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 
 import (
 	"bufio"
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/des"
-	"github.com/liangdas/mqant/utils/x/crypto/cast5"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/cast5"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 	"io"
 	"math/big"
 )

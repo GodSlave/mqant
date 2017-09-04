@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 )
 
 // PublicKeyV3 represents older, version 3 public keys. These keys are less secure and

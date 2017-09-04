@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/liangdas/mqant/utils/x/crypto/curve25519"
+	"github.com/GodSlave/mqant/utils/x/crypto/curve25519"
 )
 
 func TestSealOpen(t *testing.T) {

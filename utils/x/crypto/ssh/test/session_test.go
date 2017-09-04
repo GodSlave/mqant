@@ -11,7 +11,7 @@ package test
 import (
 	"bytes"
 	"errors"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
 	"io"
 	"strings"
 	"testing"

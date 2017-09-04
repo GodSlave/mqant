@@ -17,8 +17,8 @@ import ()
 import (
 	"fmt"
 	"sync"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/rpc"
 )
 
 type LocalServer struct {

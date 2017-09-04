@@ -5,7 +5,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2/codes"
+	"github.com/GodSlave/mqant/utils/msgpack.v2/codes"
 )
 
 func (d *Decoder) skipN(n int) error {

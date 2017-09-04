@@ -7,7 +7,7 @@ It is the work of hundreds of contributors. We appreciate your help!
 
 ## Filing issues
 
-When [filing an issue](https://github.com/liangdas/mqant/utils/issue/new), make sure to answer these five questions:
+When [filing an issue](https://github.com/GodSlave/mqant/utils/issue/new), make sure to answer these five questions:
 
 1. What version of Go are you using (`go version`)?
 2. What operating system and processor architecture are you using?
@@ -20,7 +20,7 @@ The gophers there will answer or ask you to file an issue if you've tripped over
 
 ## Contributing code
 
-Please read the [Contribution Guidelines](https://github.com/liangdas/mqant/utils/doc/contribute.html)
+Please read the [Contribution Guidelines](https://github.com/GodSlave/mqant/utils/doc/contribute.html)
 before sending patches.
 
 **We do not accept GitHub pull requests**

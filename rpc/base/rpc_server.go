@@ -15,17 +15,17 @@ package defaultrpc
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/rpc/pb"
 	"reflect"
 	"sync"
 	"time"
 	"runtime"
-	"github.com/liangdas/mqant/rpc/util"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/rpc/util"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/gate"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

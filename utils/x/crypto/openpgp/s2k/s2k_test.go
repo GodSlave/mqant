@@ -15,7 +15,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	_ "github.com/liangdas/mqant/utils/x/crypto/ripemd160"
+	_ "github.com/GodSlave/mqant/utils/x/crypto/ripemd160"
 )
 
 var saltedTests = []struct {

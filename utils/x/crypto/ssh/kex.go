@@ -14,7 +14,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/liangdas/mqant/utils/x/crypto/curve25519"
+	"github.com/GodSlave/mqant/utils/x/crypto/curve25519"
 )
 
 const (

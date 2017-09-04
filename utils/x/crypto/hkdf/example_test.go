@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"crypto/sha256"
 	"fmt"
-	"github.com/liangdas/mqant/utils/x/crypto/hkdf"
+	"github.com/GodSlave/mqant/utils/x/crypto/hkdf"
 	"io"
 )
 

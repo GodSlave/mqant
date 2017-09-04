@@ -10,7 +10,7 @@
 // strong secret keys.
 //
 // RFC 5869: https://tools.ietf.org/html/rfc5869
-package hkdf // import "github.com/liangdas/mqant/utils/x/crypto/hkdf"
+package hkdf // import "github.com/GodSlave/mqant/utils/x/crypto/hkdf"
 
 import (
 	"crypto/hmac"

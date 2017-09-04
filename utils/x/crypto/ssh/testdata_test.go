@@ -11,7 +11,7 @@ package ssh
 import (
 	"crypto/rand"
 	"fmt"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh/testdata"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh/testdata"
 )
 
 var (

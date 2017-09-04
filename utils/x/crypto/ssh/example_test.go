@@ -12,8 +12,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh/terminal"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh/terminal"
 )
 
 func ExampleNewServerConn() {

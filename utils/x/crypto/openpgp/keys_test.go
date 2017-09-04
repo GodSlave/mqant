@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 )
 
 func TestKeyExpiry(t *testing.T) {

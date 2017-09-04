@@ -14,8 +14,8 @@
 package module
 
 import (
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/rpc"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 type ServerSession interface {

@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/elgamal"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/elgamal"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
 )
 
 var (

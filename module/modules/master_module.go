@@ -5,8 +5,8 @@ package modules
 
 import (
 	"encoding/json"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/module/modules/master"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/module/modules/master"
 	"io"
 	"io/ioutil"
 	"net"
@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 	"sync"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/module/base"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/module/base"
 )
 
 var MasterModule = func() module.Module {

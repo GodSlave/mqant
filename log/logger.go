@@ -2,7 +2,7 @@ package log
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/logger/ozzo-log"
+	"github.com/GodSlave/mqant/logger/ozzo-log"
 	"time"
 )
 

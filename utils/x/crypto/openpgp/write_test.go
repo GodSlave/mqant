@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 )
 
 func TestSignDetached(t *testing.T) {

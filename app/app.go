@@ -16,11 +16,11 @@ package defaultApp
 import (
 	"flag"
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/module/base"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/rpc"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/module/base"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/rpc"
 	"hash/crc32"
 	"math"
 	"os"
@@ -28,8 +28,8 @@ import (
 	"os/signal"
 	"path/filepath"
 	"strings"
-	"github.com/liangdas/mqant/rpc/base"
-	"github.com/liangdas/mqant/module/modules"
+	"github.com/GodSlave/mqant/rpc/base"
+	"github.com/GodSlave/mqant/module/modules"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

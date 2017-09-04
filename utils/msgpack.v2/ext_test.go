@@ -3,8 +3,8 @@ package msgpack_test
 import (
 	"testing"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2"
-	"github.com/liangdas/mqant/utils/msgpack.v2/codes"
+	"github.com/GodSlave/mqant/utils/msgpack.v2"
+	"github.com/GodSlave/mqant/utils/msgpack.v2/codes"
 )
 
 func init() {

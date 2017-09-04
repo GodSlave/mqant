@@ -6,7 +6,7 @@ package clearsign
 
 import (
 	"bytes"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp"
 	"testing"
 )
 

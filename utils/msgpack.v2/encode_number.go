@@ -4,7 +4,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2/codes"
+	"github.com/GodSlave/mqant/utils/msgpack.v2/codes"
 )
 
 func (e *Encoder) EncodeUint(v uint) error {

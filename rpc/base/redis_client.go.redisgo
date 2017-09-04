@@ -15,16 +15,16 @@ package defaultrpc
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/module/modules/timer"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/module/modules/timer"
 	"github.com/golang/protobuf/proto"
-	"github.com/liangdas/mqant/utils"
+	"github.com/GodSlave/mqant/utils"
 	"sync"
 	"time"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/rpc/util"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/rpc/util"
 )
 
 type RedisClient struct {

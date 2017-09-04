@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/net/context"
+	"github.com/GodSlave/mqant/utils/x/net/context"
 )
 
 // maxRandRenew is a maximum deviation from Manager.RenewBefore.

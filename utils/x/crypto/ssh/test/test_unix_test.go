@@ -21,8 +21,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh/testdata"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh/testdata"
 )
 
 const sshd_config = `

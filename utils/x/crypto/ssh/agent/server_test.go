@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
 )
 
 func TestServer(t *testing.T) {

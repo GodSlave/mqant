@@ -17,16 +17,16 @@ import (
 	"bufio"
 	"encoding/json"
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/gate"
-	"github.com/liangdas/mqant/gate/base/mqtt"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/network"
-	"github.com/liangdas/mqant/utils/uuid"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/gate"
+	"github.com/GodSlave/mqant/gate/base/mqtt"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/network"
+	"github.com/GodSlave/mqant/utils/uuid"
 	"runtime"
 	"strings"
 	"time"
-	"github.com/liangdas/mqant/rpc/util"
+	"github.com/GodSlave/mqant/rpc/util"
 )
 
 type resultInfo struct {

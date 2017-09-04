@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2"
+	"github.com/GodSlave/mqant/utils/msgpack.v2"
 )
 
 func Example_encodeMapStringString() {

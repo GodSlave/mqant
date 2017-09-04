@@ -29,8 +29,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/acme"
-	"github.com/liangdas/mqant/utils/x/net/context"
+	"github.com/GodSlave/mqant/utils/x/crypto/acme"
+	"github.com/GodSlave/mqant/utils/x/net/context"
 )
 
 // pseudoRand is safe for concurrent use.
@@ -193,7 +193,7 @@ func (m *Manager) GetCertificate(hello *tls.ClientHelloInfo) (*tls.Certificate, 
 	}
 
 	// regular domain
-	name = strings.TrimSuffix(name, ".") // github.com/liangdas/mqant/utils/issue/18114
+	name = strings.TrimSuffix(name, ".") // github.com/GodSlave/mqant/utils/issue/18114
 	cert, err := m.cert(name)
 	if err == nil {
 		return cert, nil

@@ -15,9 +15,9 @@ package master
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/utils/x/crypto/ssh"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/utils/x/crypto/ssh"
 	"net"
 	"os/exec"
 	"strconv"

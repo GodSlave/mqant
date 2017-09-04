@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2/codes"
+	"github.com/GodSlave/mqant/utils/msgpack.v2/codes"
 )
 
 const bytesAllocLimit = 1024 * 1024 // 1mb

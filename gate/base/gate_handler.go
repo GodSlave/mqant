@@ -14,9 +14,9 @@
 package basegate
 
 import (
-	"github.com/liangdas/mqant/gate"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/utils"
+	"github.com/GodSlave/mqant/gate"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/utils"
 	"fmt"
 )
 

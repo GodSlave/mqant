@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package openpgp implements high level operations on OpenPGP messages.
-package openpgp // import "github.com/liangdas/mqant/utils/x/crypto/openpgp"
+package openpgp // import "github.com/GodSlave/mqant/utils/x/crypto/openpgp"
 
 import (
 	"crypto"
@@ -12,9 +12,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/armor"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/errors"
-	"github.com/liangdas/mqant/utils/x/crypto/openpgp/packet"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/armor"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/errors"
+	"github.com/GodSlave/mqant/utils/x/crypto/openpgp/packet"
 )
 
 // SignatureType is the armor type for a PGP signature.

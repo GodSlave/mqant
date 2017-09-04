@@ -15,14 +15,14 @@ negligible risk of collision.
 
 This package is interoperable with NaCl: https://nacl.cr.yp.to/box.html.
 */
-package box // import "github.com/liangdas/mqant/utils/x/crypto/nacl/box"
+package box // import "github.com/GodSlave/mqant/utils/x/crypto/nacl/box"
 
 import (
 	"io"
 
-	"github.com/liangdas/mqant/utils/x/crypto/curve25519"
-	"github.com/liangdas/mqant/utils/x/crypto/nacl/secretbox"
-	"github.com/liangdas/mqant/utils/x/crypto/salsa20/salsa"
+	"github.com/GodSlave/mqant/utils/x/crypto/curve25519"
+	"github.com/GodSlave/mqant/utils/x/crypto/nacl/secretbox"
+	"github.com/GodSlave/mqant/utils/x/crypto/salsa20/salsa"
 )
 
 // Overhead is the number of bytes of overhead when boxing a message.

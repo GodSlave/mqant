@@ -1,7 +1,7 @@
 package timer
 
 import (
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"sync"
 	"time"
 	"runtime"

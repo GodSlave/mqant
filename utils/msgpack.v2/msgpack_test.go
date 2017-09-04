@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangdas/mqant/utils/msgpack.v2"
-	"github.com/liangdas/mqant/utils/msgpack.v2/codes"
+	"github.com/GodSlave/mqant/utils/msgpack.v2"
+	"github.com/GodSlave/mqant/utils/msgpack.v2/codes"
 
 	. "gopkg.in/check.v1"
 )

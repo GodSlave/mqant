@@ -4,7 +4,7 @@
 
 // Package xtea implements XTEA encryption, as defined in Needham and Wheeler's
 // 1997 technical report, "Tea extensions."
-package xtea // import "github.com/liangdas/mqant/utils/x/crypto/xtea"
+package xtea // import "github.com/GodSlave/mqant/utils/x/crypto/xtea"
 
 // For details, see http://www.cix.co.uk/~klockstone/xtea.pdf
 

@@ -14,10 +14,10 @@
 package argsutil
 
 import (
-	"github.com/liangdas/mqant/utils"
+	"github.com/GodSlave/mqant/utils"
 	"fmt"
 	"reflect"
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/module"
 )
 
 var (

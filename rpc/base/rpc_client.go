@@ -16,15 +16,15 @@ package defaultrpc
 import (
 	"time"
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/utils/uuid"
-	"github.com/liangdas/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/utils/uuid"
+	"github.com/GodSlave/mqant/rpc/pb"
 	"github.com/golang/protobuf/proto"
-	"github.com/liangdas/mqant/rpc/util"
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/rpc/util"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/gate"
 )
 
 type RPCClient struct {

@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangdas/mqant/utils/x/crypto/acme"
-	"github.com/liangdas/mqant/utils/x/net/context"
+	"github.com/GodSlave/mqant/utils/x/crypto/acme"
+	"github.com/GodSlave/mqant/utils/x/net/context"
 )
 
 var discoTmpl = template.Must(template.New("disco").Parse(`{

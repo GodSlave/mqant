@@ -13,7 +13,7 @@
 // limitations under the License.
 package log
 import (
-	"github.com/liangdas/mqant/logger/ozzo-log"
+	"github.com/GodSlave/mqant/logger/ozzo-log"
 )
 var mqlog *log.Logger
 var defaultLogger *log.Logger
